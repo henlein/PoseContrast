@@ -130,3 +130,7 @@ dmypy.json
 
 # experiment directory
 exps/
+
+.idea/*
+data/
+pretrain_models/
